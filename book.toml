@@ -1,0 +1,6 @@
+[book]
+authors = ["minami", "johannes"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "DeFi Book"
