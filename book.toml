@@ -1,3 +1,4 @@
+# See: https://rust-lang.github.io/mdBook/format/config.html
 [book]
 authors = ["minami", "johannes"]
 language = "ja"
@@ -7,3 +8,6 @@ title = "DeFi Book"
 
 [output.html]
 default-theme = "rust"
+
+[build]
+build-dir = "docs"
