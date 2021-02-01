@@ -4,3 +4,6 @@ language = "ja"
 multilingual = false
 src = "src"
 title = "DeFi Book"
+
+[output.html]
+default-theme = "rust"
